@@ -31,7 +31,9 @@ Junior MERN Stack Developer dedicated to building modern, responsive, and scalab
 
 ## 📂 Featured Project
 
-- 🚀 [CrewUp](https://crewup.web.app/) – A job portal platform to connect job seekers and employers seamlessly.
+- 🚀 [CrewUp](https://crewup.web.app/) 
+- Discover. Connect. Create.
+Crew Up is a platform where people can discover and join local hobby-based groups (e.g., book clubs, hiking crews, painting circles) or create their own. Build communities around your passions!
 
 
 ---
