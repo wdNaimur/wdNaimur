@@ -23,8 +23,8 @@ I'm a **Junior MERN Stack Developer** passionate about building full-stack web a
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naimur-wd&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naimur-wd&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wdNaimur&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wdNaimur&layout=compact&theme=tokyonight)
 
 ---
 
