@@ -34,7 +34,7 @@ Junior MERN Stack Developer dedicated to building modern, responsive, and scalab
 - 🚀 [BulkNEST](https://bulknest.web.app/)  
 - Buy Smart. Sell Bulk.
 
-**BulkNEST** is a B2B wholesale marketplace platform where suppliers and buyers connect to trade in bulk with ease. Users can explore categorized products, manage listings, and make secure transactions — all in one streamlined interface. Whether you're scaling your supply or stocking your store, BulkNEST helps you buy smart and sell efficiently.
+**BulkNEST** is a B2B wholesale marketplace platform where suppliers and buyers connect to trade in bulk with ease. Users can explore categorized products, manage listings — all in one streamlined interface. Whether you're scaling your supply or stocking your store, BulkNEST helps you buy smart and sell efficiently.
 
 
 
