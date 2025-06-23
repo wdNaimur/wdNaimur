@@ -31,9 +31,11 @@ Junior MERN Stack Developer dedicated to building modern, responsive, and scalab
 
 ## 📂 Featured Project
 
-- 🚀 [BulkNEST](https://bulknest.web.app/)
-- Discover. Connect. Create.
-Crew Up is a platform where people can discover and join local hobby-based groups (e.g., book clubs, hiking crews, painting circles) or create their own. Build communities around your passions!
+- 🚀 [BulkNEST](https://bulknest.web.app/)  
+- Buy Smart. Sell Bulk.
+
+**BulkNEST** is a B2B wholesale marketplace platform where suppliers and buyers connect to trade in bulk with ease. Users can explore categorized products, manage listings, and make secure transactions — all in one streamlined interface. Whether you're scaling your supply or stocking your store, BulkNEST helps you buy smart and sell efficiently.
+
 
 
 ---
