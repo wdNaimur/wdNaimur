@@ -36,6 +36,10 @@ Junior MERN Stack Developer dedicated to building modern, responsive, and scalab
 
 **BulkNEST** is a B2B wholesale marketplace platform where suppliers and buyers connect to trade in bulk with ease. Users can explore categorized products, manage listings — all in one streamlined interface. Whether you're scaling your supply or stocking your store, BulkNEST helps you buy smart and sell efficiently.
 
+- 🚀 [CrewUp](https://crewup.web.app/)  
+- Discover. Connect. Create.
+
+**CrewUp** is a community-driven platform where people can discover and join local hobby-based groups — like book clubs, hiking crews, or painting circles — or even create their own. It’s designed to help users connect through shared passions, build lasting friendships, and grow vibrant local communities.
 
 
 ---
