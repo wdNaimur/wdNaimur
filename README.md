@@ -60,9 +60,8 @@
 
 <h3>📊 GitHub Stats:</h3>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wdNaimur&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=wdNaimur&theme=dracula&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wdNaimur&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=wdNaimur&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Profile views](https://komarev.com/ghpvc/?username=wdNaimur&color=a855f7)
 
