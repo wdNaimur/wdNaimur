@@ -16,7 +16,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:wd.naimur@gmail.com)
 
 
-<h3>💻 Tech Stack</h3>
+<h3>🧩 Technologies & Frameworks</h3>
 <p>
   <!-- Frontend -->
   <img title="HTML5" alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -42,7 +42,7 @@
   <img title="Visual Studio Code" alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<h3>📂 Featured Projects</h3>
+<h3>💼 Project Showcase</h3>
 
 - **BulkNEST**  
   _🛒📦 Buy Smart. Sell Bulk._  
@@ -58,7 +58,7 @@
   [![Client Repo](https://img.shields.io/badge/Client_Repo-GitHub-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/wdNaimur/crewup-client) 
   [![Server Repo](https://img.shields.io/badge/Server_Repo-GitHub-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/wdNaimur/crewup-server)
 
-<h3>📊 GitHub Stats:</h3>
+<h3>📈 GitHub Activity Overview</h3>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wdNaimur&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=wdNaimur&theme=dracula&hide_border=true)
