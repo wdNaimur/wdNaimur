@@ -59,9 +59,10 @@
   [![Server Repo](https://img.shields.io/badge/Server_Repo-GitHub-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/wdNaimur/crewup-server)
 
   <h3>📊 GitHub Stats:</h3>
-![](https://github-readme-stats.vercel.app/api?username=wdNaimur&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=wdNaimur&theme=dracula&hide_border=true)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=wdNaimur&theme=dracula&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wdNaimur&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=wdNaimur&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
 
 [![](https://visitcount.itsvg.in/api?id=wdNaimur&icon=1&color=3)](https://visitcount.itsvg.in)
 
