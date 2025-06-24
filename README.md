@@ -1,10 +1,6 @@
 <p align="center">
   <img src="https://github.com/wdNaimur/wdNaimur/blob/main/github-banner-naimur.png" alt="Naimur Rahman Banner" />
 </p>
-<h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />  
-  Hi, I'm <strong>Naimur Rahman</strong>
-</h1>
 
 <p>
   I'm a dedicated <strong>MERN Stack Developer</strong> based in  
