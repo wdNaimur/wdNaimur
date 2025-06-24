@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Naimur Rahman</h1>
 
-<p>Welcome to my GitHub! <br/> I'm a passionate <b>MERN Stack Developer</b> from <img src="" width="13"/> <b>Bangladesh</b>. I love building full-stack web apps that are clean, performant, and user-friendly.</p>
+<p>Welcome to my GitHub! <br/> I'm a passionate <b>MERN Stack Developer</b> from <img src="https://github.com/wdNaimur/wdNaimur/blob/main/bangladesh.png" width="13"/> <b>Bangladesh</b>. I love building full-stack web apps that are clean, performant, and user-friendly.</p>
 
 
 ## 🚀 About Me
