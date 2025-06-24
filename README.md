@@ -3,10 +3,9 @@
 <p>Welcome to my GitHub! <br/> I'm a passionate <b>MERN Stack Developer</b> from <img src="https://github.com/wdNaimur/wdNaimur/blob/main/bangladesh.png" width="13"/> <b>Bangladesh</b>. I love building full-stack web apps that are clean, performant, and user-friendly.</p>
 
 
-## 🚀 About Me
-Junior MERN Stack Developer dedicated to building modern, responsive, and scalable web applications.
 
-## 💻 Things I Code With
+
+<h3>💻 Things I Code With</h3>
 
 <p>
   <!-- Frontend Core -->
