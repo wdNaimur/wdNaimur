@@ -26,28 +26,38 @@
   <img title="Vercel" alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
+<h3>📂 Featured Projects</h3>
 
-## 📂 Featured Project
+<ul>
+  <li>
+    <strong><a href="https://bulknest.web.app/" target="_blank" rel="noreferrer">BulkNEST</a></strong><br />
+    <em>🛒📦 Buy Smart. Sell Bulk.</em><br />
+    BulkNEST is a platform that connects suppliers and buyers to trade products in bulk efficiently. Users can browse categorized listings, manage their products, and perform secure transactions — all in a streamlined interface.
+  </li>
 
-- 🚀 [BulkNEST](https://bulknest.web.app/)  
-🛒📦 Buy Smart. Sell Bulk.
+  <li>
+    <strong><a href="https://crewup.web.app/" target="_blank" rel="noreferrer">CrewUp</a></strong><br />
+    <em>🎯🤝 Discover. Connect. Create.</em><br />
+    CrewUp enables users to discover, join, or create local hobby-based groups such as book clubs, hiking teams, or art circles. It fosters community building through shared interests and collaborative events.
+  </li>
+</ul>
 
-**BulkNEST** is a B2B wholesale marketplace platform where suppliers and buyers connect to trade in bulk with ease. 🧑‍💼 Users can explore categorized products, manage listings, and make secure transactions — all in one streamlined interface. Whether you're scaling your supply or stocking your store, BulkNEST helps you buy smart and sell efficiently.
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/wdNaimur" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://x.com/WdNaimur" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/naimur-wd" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:naimur.wd@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-- 🚀 [CrewUp](https://crewup.web.app/)  
-🎯🤝 Discover. Connect. Create.
-
-**CrewUp** is a community-driven platform where people can discover and join local hobby-based groups — like 📚 book clubs, 🥾 hiking crews, or 🎨 painting circles — or even create their own. It’s designed to help users connect through shared passions, build lasting friendships, and grow vibrant local communities. 🌱🏡
-
-
-
----
-
-## 📬 Connect with Me
-
-- 📧 Email: [naimur.wd@gmail.com](mailto:naimur.wd@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/naimur-wd](https://www.linkedin.com/in/naimur-wd/)  
-- 🐦 Twitter/X: [@WdNaimur](https://x.com/WdNaimur)
 
 ---
 
