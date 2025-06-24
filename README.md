@@ -58,4 +58,16 @@
   [![Client Repo](https://img.shields.io/badge/Client_Repo-GitHub-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/wdNaimur/crewup-client) 
   [![Server Repo](https://img.shields.io/badge/Server_Repo-GitHub-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/wdNaimur/crewup-server)
 
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=wdNaimur&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=wdNaimur&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wdNaimur&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=wdNaimur&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=wdNaimur&icon=1&color=3)](https://visitcount.itsvg.in)
+
+
 _Thank you for visiting! Feel free to explore my projects and connect with me for collaboration or opportunities._ ⭐
