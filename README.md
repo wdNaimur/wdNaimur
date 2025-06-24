@@ -58,13 +58,12 @@
   [![Client Repo](https://img.shields.io/badge/Client_Repo-GitHub-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/wdNaimur/crewup-client) 
   [![Server Repo](https://img.shields.io/badge/Server_Repo-GitHub-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/wdNaimur/crewup-server)
 
-  <h3>📊 GitHub Stats:</h3>
+<h3>📊 GitHub Stats:</h3>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=wdNaimur&theme=dracula&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wdNaimur&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=wdNaimur&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
 
-[![](https://visitcount.itsvg.in/api?id=wdNaimur&icon=1&color=3)](https://visitcount.itsvg.in)
-
+![Profile views](https://komarev.com/ghpvc/?username=wdNaimur&color=a855f7)
 
 _Thank you for visiting! Feel free to explore my projects and connect with me for collaboration or opportunities._ ⭐
