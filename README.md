@@ -54,7 +54,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><h3>BulkNEST</h3></td>
+      <td><h4>BulkNEST</h4></td>
       <td>B2B platform connecting suppliers and buyers for bulk product trade with an intuitive interface.</td>
       <td>
         <a href="https://bulknest.web.app/">
@@ -69,7 +69,7 @@
       </td>
     </tr>
     <tr>
-        <td><h3>CrewUp</h3></td>
+        <td><h4>CrewUp</h4></td>
       <td>Enables users to find and create local hobby groups, fostering collaboration and shared interests.</td>
       <td>
         <a href="https://crewup.web.app/">
