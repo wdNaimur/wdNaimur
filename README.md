@@ -42,21 +42,50 @@
   <img title="Visual Studio Code" alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
+<!-- Project Showcase -->
 <h3>💼 Project Showcase</h3>
+<table>
+  <thead align="left">
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><h3>BulkNEST</h3></td>
+      <td>B2B platform connecting suppliers and buyers for bulk product trade with an intuitive interface.</td>
+      <td>
+        <a href="https://bulknest.web.app/">
+          <img src="https://img.shields.io/badge/Live-Online-brightgreen?style=flat-square" alt="Live Link" />
+        </a><br/>
+        <a href="https://github.com/wdNaimur/bulknest-client">
+          <img src="https://img.shields.io/badge/Client_Repo-GitHub-blue?style=flat-square&logo=github&logoColor=white" alt="Client Repo" />
+        </a><br/>
+        <a href="https://github.com/wdNaimur/bulknest-server">
+          <img src="https://img.shields.io/badge/Server_Repo-GitHub-blue?style=flat-square&logo=github&logoColor=white" alt="Server Repo" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+        <td><h3>CrewUp</h3></td>
+      <td>Enables users to find and create local hobby groups, fostering collaboration and shared interests.</td>
+      <td>
+        <a href="https://crewup.web.app/">
+          <img src="https://img.shields.io/badge/Live-Online-brightgreen?style=flat-square" alt="Live Link" />
+        </a><br/>
+        <a href="https://github.com/wdNaimur/crewup-client">
+          <img src="https://img.shields.io/badge/Client_Repo-GitHub-blue?style=flat-square&logo=github&logoColor=white" alt="Client Repo" />
+        </a><br/>
+        <a href="https://github.com/wdNaimur/crewup-server">
+          <img src="https://img.shields.io/badge/Server_Repo-GitHub-blue?style=flat-square&logo=github&logoColor=white" alt="Server Repo" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-- **BulkNEST**  
-  _🛒📦 Buy Smart. Sell Bulk._  
-  BulkNEST is a B2B platform connecting suppliers and buyers for bulk product trade with an intuitive interface and secure transactions.  
-  [![Live](https://img.shields.io/badge/Live-Online-brightgreen?style=flat-square)](https://bulknest.web.app/) 
-  [![Client Repo](https://img.shields.io/badge/Client_Repo-GitHub-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/wdNaimur/bulknest-client) 
-  [![Server Repo](https://img.shields.io/badge/Server_Repo-GitHub-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/wdNaimur/bulknest-server)
-
-- **CrewUp**  
-  _🎯🤝 Discover. Connect. Create._  
-  CrewUp enables users to find and create local hobby groups, fostering collaboration and shared interests.  
-  [![Live](https://img.shields.io/badge/Live-Online-brightgreen?style=flat-square)](https://crewup.web.app/) 
-  [![Client Repo](https://img.shields.io/badge/Client_Repo-GitHub-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/wdNaimur/crewup-client) 
-  [![Server Repo](https://img.shields.io/badge/Server_Repo-GitHub-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/wdNaimur/crewup-server)
 
 <h3>📈 GitHub Activity Overview</h3>
 
