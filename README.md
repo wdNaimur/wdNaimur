@@ -49,7 +49,7 @@
     <tr>
       <th>Project</th>
       <th>Description</th>
-      <th width="200">Links</th>
+      <th>Links</th>
     </tr>
   </thead>
   <tbody>
@@ -58,13 +58,13 @@
       <td>B2B platform connecting suppliers and buyers for bulk product trade with an intuitive interface.</td>
       <td>
         <a href="https://bulknest.web.app/">
-          <img width="70" src="https://img.shields.io/badge/Live%20Link-8A2BE2" alt="Live Link" />
+          <img width="80" src="https://img.shields.io/badge/Live%20Link-8A2BE2" alt="Live Link" />
         </a><br/>
         <a href="https://github.com/wdNaimur/bulknest-client">
-          <img width="110" src="https://img.shields.io/badge/Client_Repo-purple?style=flat&logo=github&logoColor=white" alt="Client Repo" />
+          <img width="120" src="https://img.shields.io/badge/Client_Repo-purple?style=flat&logo=github&logoColor=white" alt="Client Repo" />
         </a><br/>
         <a href="https://github.com/wdNaimur/bulknest-server">
-          <img width="110" src="https://img.shields.io/badge/Server_Repo-purple?style=flat&logo=github&logoColor=white" alt="Server Repo" />
+          <img width="120" src="https://img.shields.io/badge/Server_Repo-purple?style=flat&logo=github&logoColor=white" alt="Server Repo" />
         </a>
       </td>
     </tr>
@@ -73,13 +73,13 @@
       <td>Enables users to find and create local hobby groups, fostering collaboration and shared interests.</td>
       <td>
         <a href="https://crewup.web.app/">
-          <img width="70" src="https://img.shields.io/badge/Live%20Link-8A2BE2" alt="Live Link" />
+          <img width="80" src="https://img.shields.io/badge/Live%20Link-8A2BE2" alt="Live Link" />
         </a><br/>
         <a href="https://github.com/wdNaimur/crewup-client">
-          <img width="110" src="https://img.shields.io/badge/Client_Repo-purple?style=flat&logo=github&logoColor=white" alt="Client Repo" />
+          <img width="120" src="https://img.shields.io/badge/Client_Repo-purple?style=flat&logo=github&logoColor=white" alt="Client Repo" />
         </a><br/>
         <a href="https://github.com/wdNaimur/crewup-server">
-          <img width="110" src="https://img.shields.io/badge/Server_Repo-purple?style=flat&logo=github&logoColor=white" alt="Server Repo" />
+          <img width="120" src="https://img.shields.io/badge/Server_Repo-purple?style=flat&logo=github&logoColor=white" alt="Server Repo" />
         </a>
       </td>
     </tr>
