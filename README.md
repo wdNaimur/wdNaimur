@@ -64,7 +64,7 @@
           <img src="https://img.shields.io/badge/Client_Repo-purple?style=flat&logo=github&logoColor=white" alt="Client Repo" />
         </a><br/>
         <a href="https://github.com/wdNaimur/bulknest-server">
-          <img src="https://img.shields.io/badge/Server_Repo-GitHub-blue?style=flat-square&logo=github&logoColor=white" alt="Server Repo" />
+          <img src="https://img.shields.io/badge/Server_Repo-purple?style=flat&logo=github&logoColor=white" alt="Server Repo" />
         </a>
       </td>
     </tr>
@@ -79,7 +79,7 @@
           <img src="https://img.shields.io/badge/Client_Repo-purple?style=flat&logo=github&logoColor=white" alt="Client Repo" />
         </a><br/>
         <a href="https://github.com/wdNaimur/crewup-server">
-          <img src="https://img.shields.io/badge/Server_Repo-GitHub-blue?style=flat-square&logo=github&logoColor=white" alt="Server Repo" />
+          <img src="https://img.shields.io/badge/Server_Repo-purple?style=flat&logo=github&logoColor=white" alt="Server Repo" />
         </a>
       </td>
     </tr>
