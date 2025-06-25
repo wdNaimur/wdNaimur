@@ -49,7 +49,7 @@
     <tr>
       <th>Project</th>
       <th>Description</th>
-      <th>Links</th>
+      <th width="200">Links</th>
     </tr>
   </thead>
   <tbody>
