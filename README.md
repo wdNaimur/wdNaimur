@@ -92,6 +92,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wdNaimur&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=wdNaimur&theme=dracula&hide_border=true)
 
-![Profile views](https://komarev.com/ghpvc/?username=wdNaimur&color=a855f7)
+![Profile views](https://komarev.com/ghpvc/?username=wdNaimur&color=8A2BE2)
 
 _Thank you for visiting! Feel free to explore my projects and connect with me for collaboration or opportunities._ ⭐
