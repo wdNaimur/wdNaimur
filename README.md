@@ -58,7 +58,7 @@
       <td>B2B platform connecting suppliers and buyers for bulk product trade with an intuitive interface.</td>
       <td>
         <a href="https://bulknest.web.app/">
-          <img src="https://img.shields.io/badge/Live-Online-brightgreen?style=flat-square" alt="Live Link" />
+          <img src="https://img.shields.io/badge/Live%20Link-8A2BE2" alt="Live Link" />
         </a><br/>
         <a href="https://github.com/wdNaimur/bulknest-client">
           <img src="https://img.shields.io/badge/Client_Repo-GitHub-blue?style=flat-square&logo=github&logoColor=white" alt="Client Repo" />
@@ -73,7 +73,7 @@
       <td>Enables users to find and create local hobby groups, fostering collaboration and shared interests.</td>
       <td>
         <a href="https://crewup.web.app/">
-          <img src="https://img.shields.io/badge/Live-Online-brightgreen?style=flat-square" alt="Live Link" />
+         <img src="https://img.shields.io/badge/Live%20Link-8A2BE2" alt="Live Link" />
         </a><br/>
         <a href="https://github.com/wdNaimur/crewup-client">
           <img src="https://img.shields.io/badge/Client_Repo-GitHub-blue?style=flat-square&logo=github&logoColor=white" alt="Client Repo" />
