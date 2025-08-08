@@ -3,16 +3,26 @@
 </p>
 
 <p>
-  I'm a dedicated <strong>MERN Stack Developer</strong> based in  
+  Hi, I'm <strong>Md. Naimur Rahman</strong> from  
   <img src="https://github.com/wdNaimur/wdNaimur/blob/main/bangladesh.png" width="15" alt="Bangladesh flag" />  
-  <strong>Bangladesh</strong>. I specialize in building scalable, performant, and user-centric full-stack web applications that solve real-world problems.
+  <strong>Bangladesh</strong>. I’m a passionate web developer with about a year of experience specializing in the MERN stack. My expertise includes building dynamic and responsive web applications using React, Tailwind CSS, and Express.
 </p>
+
+<p><strong>Current Activities:</strong></p>
+<ul>
+  <li>Currently exploring Next.js for building modern React applications.</li>
+  <li>Deep diving into interview preparation to sharpen problem-solving skills.</li>
+  <li>Strengthening core JavaScript and React concepts for better code quality.</li>
+  <li>Practicing coding challenges and real-world scenarios to boost confidence.</li>
+</ul>
 
 <h3>🔗 Connect with Me</h3>
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/wdNaimur) 
+  <!-- [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/wdNaimur) -->
 [![Email](https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:wd.naimur@gmail.com)
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wdnaimur) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/webnaimur)
+[![Portfolio](https://img.shields.io/badge/Portfolio-33acc0.svg?&style=for-the-badge&logoColor=white)](https://naimurrahman.web.app/)
+
 
 <h3>🧩 Technologies & Frameworks</h3>
 <p>
@@ -47,10 +57,27 @@
     <tr>
       <th>Project</th>
       <th>Description</th>
-      <th width="150">Links</th>
+      <th width="180">Links</th>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><h4>BloodBridge</h4></td>
+      <td>
+        BloodBridge is a full-featured blood donation platform connecting donors, recipients, and volunteers through a secure, responsive MERN app.
+      </td>
+      <td>
+        <a href="https://bloodbridge-by-naimur.web.app/">
+          <img width="80" src="https://img.shields.io/badge/Live%20Link-8A2BE2" alt="Live Link" />
+        </a><br/>
+        <a href="https://github.com/wdNaimur/BloodBridge-client">
+          <img width="120" src="https://img.shields.io/badge/Client_Repo-purple?style=flat&logo=github&logoColor=white" alt="Client Repo" />
+        </a><br/>
+        <a href="https://github.com/wdNaimur/BloodBridge-server">
+          <img width="120" src="https://img.shields.io/badge/Server_Repo-purple?style=flat&logo=github&logoColor=white" alt="Server Repo" />
+        </a>
+      </td>
+    </tr>
     <tr>
       <td><h4>BulkNEST</h4></td>
       <td>B2B platform connecting suppliers and buyers for bulk product trade with an intuitive interface.</td>
@@ -67,7 +94,7 @@
       </td>
     </tr>
     <tr>
-        <td><h4>CrewUp</h4></td>
+      <td><h4>CrewUp</h4></td>
       <td>Enables users to find and create local hobby groups, fostering collaboration and shared interests.</td>
       <td>
         <a href="https://crewup.web.app/">
